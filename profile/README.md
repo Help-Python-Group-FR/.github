@@ -6,7 +6,7 @@ Nous sommes une petite équipe qui souhaitent apprendre et aider les gens sur [P
 
 Nous voulons juste soutenir les gens dans leur projet.
 
-# Effectif
+# Nous sommes...
 
 Linajuci - [Discord](https://discord.com/users/635850922475651073) - [Github](https://github.com/Elpouletto)
 
