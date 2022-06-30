@@ -8,9 +8,9 @@ Nous voulons juste soutenir les gens dans leur projet.
 
 # Effectif
 
-[Linajuci](https://discord.com/users/635850922475651073)
+Linajuci - [Discord](https://discord.com/users/635850922475651073) - [Github](https://github.com/Elpouletto)
 
-[Artic](https://discord.com/users/855783629047988274)
+Artic - [Discord](https://discord.com/users/855783629047988274) - [Github](https://github.com/ArticOff)
 
 # Liens
 
