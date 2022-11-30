@@ -8,9 +8,11 @@ Nous voulons juste soutenir les gens dans leur projet.
 
 # Nous sommes...
 
-Linajuci - [Discord](https://discord.com/users/635850922475651073) - [Github](https://github.com/Elpouletto)
+Linajuci - [Discord](https://discord.com/users/635850922475651073) - [GitHub](https://github.com/Elpouletto)
 
-Artic - [Discord](https://discord.com/users/855783629047988274) - [Github](https://github.com/ArticOff)
+Artic - [Discord](https://discord.com/users/855783629047988274) - [GitHub](https://github.com/ArticOff)
+
+ZetaMap - [Discord](https://discord.com/users/534031087094071307) - [GitHub](https://github.com/ZetaMap)
 
 # Liens
 
